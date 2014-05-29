@@ -1,0 +1,12 @@
+{
+	"name": "unknown",
+	"main": "public/index.html",
+	"window": {
+		
+	},
+	"dependencies": {
+		"gulp": "~3.5.5",
+		"gulp-less": "~1.2.2",
+		"gulp-concat": "~2.1.7"
+	}
+}
