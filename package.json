@@ -1,5 +1,9 @@
 {
-	"name": "unknown",
+	"name": "Mail",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lukevers/mail"
+	},
 	"main": "public/index.html",
 	"window": {
 		
